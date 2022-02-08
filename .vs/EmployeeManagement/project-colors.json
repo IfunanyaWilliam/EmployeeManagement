@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b15d1457-d6ed-4ed5-88f8-f8322f0692ba": {
+      "ProjectGuid": "b15d1457-d6ed-4ed5-88f8-f8322f0692ba",
+      "DisplayName": "EmployeeManagement",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
